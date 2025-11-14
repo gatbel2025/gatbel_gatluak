@@ -15,7 +15,7 @@ A modern, responsive personal portfolio built with React and Tailwind CSS, desig
 ---
 
 ## 🌐 Live Demo
-[View My Portfolio]([https://gatbel2025.github.io/my-portfolio/](https://gatbel-gatluak.vercel.app/))
+[View My Portfolio]((https://gatbel-gatluak.vercel.app/))
 
 ---
 
